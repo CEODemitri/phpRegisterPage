@@ -27,4 +27,4 @@ echo to print a file
 
       echo "My name is $name. Im $gender and my favorite number is $fav_number";
 #Seven Data Types
--string, int, bool, float, array, null
+-string, int, bool, float, array, object{}, null
