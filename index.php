@@ -32,6 +32,8 @@
 			<p>Leave Us a Comment</p>
 			<p>Tell us About Your Experience</p>
 		</h1>
+		<label></label>
+		<input />
 	</div>
 	<?php echo '<h3>Is anyone there?</h3>'; ?>
 </body>
